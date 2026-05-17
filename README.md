@@ -23,5 +23,5 @@ Persönliches Markdown-Repo zur Begleitung eines modularen Einstiegs in KI, z.B.
 Startpunkt:
 
 - [00_start/lernplan.md](00_start/lernplan.md)
-- `01_kurse/ki-campus/einfuehrung-die-ki/kursnotizen.md`
-- `templates/kursnotiz-template.md`
+- [01_kurse/ki-campus/einfuehrung-die-ki/kursnotizen.md](01_kurse/ki-campus/einfuehrung-die-ki/kursnotizen.md)
+- [templates/kursnotiz-template.md](templates/kursnotiz-template.md)
