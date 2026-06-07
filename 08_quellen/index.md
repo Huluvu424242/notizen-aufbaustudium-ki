@@ -11,3 +11,4 @@ Sammlung wichtiger Quellen, Kurse, Bücher, Papers und Webseiten.
 - Open-Source-Projekte
 - Videos
 - Tools
+  - Generierte Personen: https://thispersondoesnotexist.com/
