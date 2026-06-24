@@ -1,4 +1,8 @@
 # Beginn 17.05.2026
+
+- bevorzugt als Gasthörer in Dresden, Jena, Chemnitz
+- Fernstudiengänge FU Hagen, oder Kurse über OpenCourseWare oder Ki-Campus
+
 ## Block 1 (1–2 Monate  = 05/06-2026) 
 Grundlagen vervollständigen
 
