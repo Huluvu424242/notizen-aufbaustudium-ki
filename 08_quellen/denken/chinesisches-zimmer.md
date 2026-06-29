@@ -12,7 +12,7 @@ Falls das also so ist, dann ist das ein Punkt an dem ich John Searle nicht folge
 
 Ich möchte das wie folgt versuchen zu "beweisen" oder besser zu verargumentieren. 
 Der Begriff "Liebe" ist für mich mein Leben lang ein abstrakter Begriff geblieben. Ich kann damit in Wirklichkeit nix anfangen. Natürlich kann ich behaupten ich würde jemanden lieben und ich habe dies in meinem Leben auch oft getan, weil Partnerinnen soetwas von mir erwarteten aber
-in Wirklichkeit wußte ich nie was ich mir darunter vorstellen soll. Ich kenne das Gefühl, dass eine räumliche und zeitliche Entfernung vom anderen dazu führt, dass man diese Person vermisst. Aber ich vermisse auch manchmal meine Oma - ist das dann schon Liebe?
+in Wirklichkeit wußte ich nie was ich mir darunter vorstellen soll. Ich kenne das Gefühl, dass eine räumliche und zeitliche Entfernung vom Anderen dazu führt, dass man diese Person vermisst. Aber ich vermisse auch manchmal meine Oma - ist das dann schon Liebe?
 Ich kenne auch das Gefühl sich alleine in einem Hotelzimmer oder in einem Internatszimmer zu fühlen und sich einsam zu fühlen und sich die Nähe des Partners zu wünschen - aber ist das dann schon Liebe?
 Ich kenne auch Zeiten in denen man sich in einer Ehe anschreit und hofft der Andere würde verschwinden und doch möchte man am nächsten Tag nicht alleine aufwachen und sich den Kaffee selber brühen. Nein man steht sogar mit einem schlechten Gewissen auf und macht Kaffee und bringt diesen 
 der Partnerin aber ist das Liebe oder hat man nur ein schlechtes Gewissen?
