@@ -18,7 +18,7 @@ Ich kenne auch Zeiten in denen man sich in einer Ehe anschreit und hofft der And
 der Partnerin aber ist das Liebe oder hat man nur ein schlechtes Gewissen?
 Die Beispiele lassen sich endlos fortführen aber damit lässt sich scheinbar nix beweisen. Also anders. 
 
-Ich kann Differential- und Integralrechnungen lösen. Ich würde sogar behaupten ich verstehe das was ich dabei tue. Aber stimmt das auch?
+Ich kann Differential- und Integralgleichungen lösen. Ich würde sogar behaupten ich verstehe das was ich dabei tue. Aber stimmt das auch?
 Eigentlich hat mir doch nur irgendwann mal jemand beigebracht das es Zahlen gibt, dann dass es 4 Grundrechenarten gibt und wie sie funktionieren, das Einmaleins und ähnliche Hilfen um schneller zu werden, Zahlensysteme wie das binäre und das hexadezimale, weitere Renchenarten 
 wie potenzieren oder wurzel ziehen, Aussagelogik, und immer mehr und mehr. Bis ich in der Lage war Integrale zu lösen und zu wissen, dass ich damit die Fläche unter der Kurve berechne. Wäre ich da je von alleine drauf gekommen? Nein! Habe ich etwas anderes gemacht als ein 
 neuronales Netz? Nein! Ich habe mein köpereigenes neuronales Netz auf der Grundlage von Unmengen an Umweltdaten trainiert. Zum großen Teil war es ein überwachtes Training bei dem meine Eltern, meine Lehrer, meine Ausbilder, meine Dozenten die Label für richtig und falsch vergeben haben. 
