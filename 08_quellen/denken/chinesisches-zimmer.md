@@ -5,6 +5,7 @@ Als Beweis führt er das chinesische Zimmer an:
 https://www.youtube.com/watch?v=BszEmV_OVrI
 
 Persönliche Notizen
+
 Prinzipiell stimme ich dem Mann zu. Aus den Ausführungen im Video vermute ich, dass er davon ausgeht, dass der Mensch selbst verstehen kann. Auch wenn dies nirgends explizit so gesagt wird, kommt dies im Video so rüber. 
 Falls das also so ist, dann ist das ein Punkt an dem ich John Searle nicht folgen kann. Denn ich persönlich bin der Meinung, dass zumindest die große Masse der Menschen ebenso nicht verstehen kann und falls überhaupt dann können nur sehr wenige Menschen wirklich verstehen.
 
