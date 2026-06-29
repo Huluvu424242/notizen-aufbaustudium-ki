@@ -24,7 +24,7 @@ wie potenzieren oder wurzel ziehen, Aussagelogik, und immer mehr und mehr. Bis i
 neuronales Netz? Nein! Ich habe mein köpereigenes neuronales Netz auf der Grundlage von Unmengen an Umweltdaten trainiert. Zum großen Teil war es ein überwachtes Training bei dem meine Eltern, meine Lehrer, meine Ausbilder, meine Dozenten die Label für richtig und falsch vergeben haben. 
 Aber in großen Teilen war es auch ein unüberwachtes Training bei dem ich mich einfach mit Versuch und Fehler durch die Welt bewegt habe. Beipiele: Die erste Bahnfahrt und die falsche Strecke auf dem Ticket, nicht via Köthen sondern via Könnern und das erhöhte Beförderungsentgeld 
 weil ich angeblich versucht habe zu betrügen. Das sitzen in Bayern im Biergarten beim Bier am Ende der Bank und alle stehen auf. Das sind doch Dinge die "versteht" man aber doch nur
-weil ein irgendwann mal einer die Hebelgesetze bei gebracht hat. 
+weil ein irgendwann mal einer die Hebelgesetze beigebracht hat. 
 
 Am prägnantesten finde ich das Beispiel etwas neues schaffen wie eine Diplomarbeit. Habe ich da wirklich neues Wissen erschaffen? Natürlich nicht! Ich habe wissen aus dem 
 weltweiten Pool an Bibliotheken zu einem bestimmten Thema zusammen getragen. Habe es durchgelesen und versucht zu "verstehen". Aber verstehen hieß nur, ich kann nachvollziehen 
