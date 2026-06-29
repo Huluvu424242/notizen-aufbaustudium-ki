@@ -26,8 +26,8 @@ Aber in großen Teilen war es auch ein unüberwachtes Training bei dem ich mich 
 weil ich angeblich versucht habe zu betrügen. Das sitzen in Bayern im Biergarten beim Bier am Ende der Bank und alle stehen auf. Das sind doch Dinge die "versteht" man aber doch nur
 weil ein irgendwann mal einer die Hebelgesetze beigebracht hat. 
 
-Am prägnantesten finde ich das Beispiel etwas neues schaffen wie eine Diplomarbeit. Habe ich da wirklich neues Wissen erschaffen? Natürlich nicht! Ich habe wissen aus dem 
-weltweiten Pool an Bibliotheken zu einem bestimmten Thema zusammen getragen. Habe es durchgelesen und versucht zu "verstehen". Aber verstehen hieß nur, ich kann nachvollziehen 
+Am prägnantesten finde ich das Beispiel etwas neues schaffen wie eine Diplomarbeit. Habe ich da wirklich neues Wissen erschaffen? Natürlich nicht! Ich habe Wissen aus dem 
+weltweiten Pool an Bibliotheken zu einem bestimmten Thema zusammengetragen. Habe es durchgelesen und versucht zu "verstehen". Aber verstehen hieß nur, ich kann nachvollziehen 
 was der Autor schrieb und ich verstand es weil man mir vorher die Regeln beigebracht hatte. Was habe ich wirklich getan um neues Wissen zu schöpfen? Ich habe 
 gesammeltes Wissen kombiniert und die Kombinationen durch Experimente geprüft: Versuch und Fehler. Nichts anderes tun neuronale Netze beim unkontrollierten Training. 
 
