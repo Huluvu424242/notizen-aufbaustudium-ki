@@ -36,3 +36,5 @@ gesammeltes Wissen kombiniert und die Kombinationen durch Experimente geprüft: 
 Die nächste Frage wäre dann, können Tiere "verstehen". Die bisherige vorherrschende Meinung der Menschheit war immer "Nein!" sie können nicht denken, sie können nicht verstehen -
 das sind alles nur Instinkte. Ich denke der Mensch ist einfach nur arogant und denkt er wäre eine Ausnahme. Ich aber glaube der Mensch ist keine Ausnahme, er funktioniert genauso
 wie Tiere oder künstliche neuronale Netze. Und ich finde unter dieser Annahme, ergeben viele Dinge des Alltages plötzlich einen Sinn. 
+
+Gespeichert unter: https://steemit.com/deutsch/@huluvu424242/gedanken-zum-chinesischen-zimmer-kann-ki-verstehen-koennen-menschen-verstehen
